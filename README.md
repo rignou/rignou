@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 경력과 스킬&툴, 포트폴리오등의 소개가 있습니다
 
 ### 기본 정보
-- 199X년생
-- 경기도 거주
+- 19XX년생
+- 한국 거주
 
 ### 연락처
 - 010 22XX XXXX
-- snf06179@gmail.com
+- sk06541@gmail.com
 
 ### Languages and Tool
 <p align="left" style="white-space: pre-line; display: flex;"> 
