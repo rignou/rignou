@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 웹퍼블리셔 지망생 : 이 순한
+# 웹퍼블리셔 지망생 : 이지은
 ## I aspire to become a prospective web publisher.
-깃허브 프로필 소개입니다.
 
 경력과 스킬&툴, 포트폴리오등의 소개가 있습니다
 
