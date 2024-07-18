@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 한국 거주
 
 ### 연락처
-- 010 22XX XXXX
+- 010 12XX XXXX
 - sk06541@gmail.com
 
 ### Languages and Tool
